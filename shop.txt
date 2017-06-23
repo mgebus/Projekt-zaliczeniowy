@@ -1,0 +1,144 @@
+Patyk
+0
+1
+50
+Drewniany miecz
+0
+2
+100
+Miecz
+0
+3
+150
+Dlugi miecz
+0
+4
+200
+Magiczny miecz
+0
+5
+250
+Magiczny dlugi miecz
+0
+6
+300
+Czapka
+1
+1
+50
+Zimowa czapka
+1
+2
+100
+Kask
+1
+3
+150
+Helm
+1
+4
+200
+Rogaty helm
+1
+5
+250
+Helm ze smoka
+1
+6
+300
+Koszulka
+2
+3
+100
+Tunika
+2
+6
+200
+Tunika z pasem
+2
+9
+300
+Slaba zbroja
+2
+12
+400
+Mocna zbroja
+2
+15
+500
+Zbroja ze smoka
+2
+18
+600
+Lateksowe rekawiczki
+3
+1
+50
+Dziurawe rekawiczki
+3
+2
+100
+Rekawiczki
+3
+3
+150
+Mocne rekawice
+3
+4
+200
+Okute rekawice
+3
+5
+250
+Rekawice ze smoka
+3
+6
+300
+Dziurawa deska
+4
+2
+75
+Porzadna deska
+4
+4
+150
+Kawalek blachy
+4
+6
+225
+Tarcza
+4
+8
+300
+Okuta tarcza
+4
+10
+375
+Magiczna tarcza
+4
+12
+450
+Kapcioszki
+5
+1
+60
+Sandaly
+5
+3
+120
+Buty
+5
+5
+180
+Porzadne buty
+5
+7
+240
+Okute buty
+5
+9
+300
+Buty ze smoka
+5
+11
+360

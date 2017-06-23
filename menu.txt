@@ -1,0 +1,15 @@
+Ktora z umiejetnosci chcesz awansowac?
+4	strenght
+	vitality
+	agility
+	luck
+	Twoja tura. Jaki ruch chcesz wykonac?
+5	Atak 1
+	Atak 2
+	Atak 3
+	Skok w lewo
+	Skok w stronie przeciwnika
+	Co chcesz zrobic?
+3	Pokaz statystki
+	Idz do sklepu
+	Walcz
