@@ -20,10 +20,10 @@ Battle::Battle()
 		int skills[4];
 		for (int a = 0; a < 4; a++)plik >> skills[a];
 		Enemy[a].damage = 10+15 * (skills[0] + (rand() % 7));
-		Enemy[a].health = 100; //+ 15 * skills[1];
+		Enemy[a].health = 100 + 15 * skills[1];
 		Enemy[a].agility = skills[2];
 		Enemy[a].luck = skills[3];
-		Enemy[a].position = 1;
+		Enemy[a].position = 6;
 	}
 	plik.close();
 }
@@ -101,7 +101,7 @@ void Letsfight::Fight(User &user,int nr)
 	Me.health = 100;// +15 * user.vitality;
 	Me.luck = user.luck;
 	Me.armor = 0; for (int a = 1; a <= 6; a++)Me.armor += user.equipment[a].value;
-	Me.position = 0;
+	Me.position = 3;
 	int b = 0;
 	system("cls");
 	do
